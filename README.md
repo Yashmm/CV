@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 <head>
     <title>Sarah CV</title>
@@ -60,8 +60,7 @@
 		
 		
 
-	</ul>
-	<hr>
+	
    <h4>Education</h4>
    <table>
 		<tr>
@@ -110,5 +109,4 @@
 		</tr>
 	</table>
    
-</body>
-</html>
+
