@@ -110,6 +110,6 @@
 	</table>
    
   <br/>
-  <p> You can use the following link to access my next progress with this webpage with CSS: 
-	<a href="https://yashmm.github.io/Sarah/"> Repository 2 </a> </p>
+  <p> You can use the following link to go back to my second progress with this webpage with CSS: 
+	<a href="https://yashmm.github.io/Sarah/"> Second Progress </a> </p>
 
